@@ -1,7 +1,7 @@
 # LPG Monitoring App
 
 <p align="center">
-  <img src="https://images.seeklogo.com/logo-png/38/1/pertamina-elpiji-logo-png_seeklogo-384686.png" alt="App Logo or Screenshot" width="300" />
+  <img src="logo.png" alt="App Logo or Screenshot" width="300" />
 </p>
 
 > Aplikasi untuk mempermudah dan mengoptimalkan proses monitoring pengiriman gas LPG.
@@ -28,7 +28,7 @@ Dengan mengunduh dan menggunakan aplikasi ini, kamu telah **menyetujui** syarat 
 
 Untuk mengunduh file `.apk` terbaru, silakan kunjungi halaman **Releases** di GitHub ini.
 
-[![Download App](https://img.shields.io/badge/Unduh_Aplikasi_APK-black?style=for-the-badge&logo=github&label=Download_APK)](https://github.com/nama-pengguna/nama-repo/releases)
+[![Download App](https://img.shields.io/badge/Unduh_Aplikasi_APK-black?style=for-the-badge&logo=github&label=Download_APK)](https://github.com/iamwisnu99/LPGApp/releases)
 
 <br/>
 
